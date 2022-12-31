@@ -31,8 +31,8 @@ export default function Footer() {
                                     </Menu.Button>
 
 <div className="py-1"></div>
-<a href="https://top.gg/bot/924325576095973426">
-  <img src={"https://top.gg/api/widget/servers/924325576095973426.svg"}/>
+<a href="https://top.gg/bot/784214130202509333">
+  <img src={"https://top.gg/api/widget/servers/784214130202509333.svg"}/>
 </a>
 <div className="py-1"></div>
 <a href="https://top.gg/bot/924325576095973426">
