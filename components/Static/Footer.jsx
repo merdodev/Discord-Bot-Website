@@ -29,9 +29,7 @@ export default function Footer() {
                                             aria-hidden="true"
                                         />
                                     </Menu.Button>
-<a href="https://top.gg/bot/784214130202509333">
-  <img src="https://top.gg/api/widget/784214130202509333.svg">
-</a>
+
 
                                 </div>
                             </Menu>
