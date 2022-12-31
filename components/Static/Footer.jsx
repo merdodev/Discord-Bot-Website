@@ -42,6 +42,7 @@ export default function Footer() {
 <a href="https://top.gg/bot/924325576095973426">
   <img src={"https://top.gg/api/widget/owner/924325576095973426.svg"}/>
 </a>
+                                </div>
                             </Menu>
                         
                         </div>
